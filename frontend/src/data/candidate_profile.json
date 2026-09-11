@@ -1,0 +1,108 @@
+{
+  "candidate_id": "CAND-205",
+  "name": "Rahul Verma",
+  "experience_years": 3.2,
+  "current_title": "MERN Stack Developer",
+  "location": "Bangalore",
+  "expected_salary_lpa": 15,
+  "preferred_roles": [
+    "MERN Stack Developer",
+    "Full Stack JavaScript Developer",
+    "React.js Developer",
+    "Node.js Backend Developer",
+    "Full Stack Engineer"
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+    "REST API",
+    "Redux",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Git",
+    "GitHub",
+    "JWT Authentication",
+    "Docker",
+    "AWS",
+    "CI/CD"
+  ],
+  "education": {
+    "degree": "B.Tech. in Computer Science and Engineering",
+    "university": "National Institute of Technology"
+  },
+  "resume": {
+    "summary": "MERN Stack Developer with 3.2 years of experience building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Experienced in developing responsive user interfaces, REST APIs, authentication systems, and cloud-based deployments using modern JavaScript technologies.",
+    "work_experience": [
+      {
+        "title": "MERN Stack Developer",
+        "company": "TechNova Solutions",
+        "years": 2,
+        "description": "Developed and maintained full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Built REST APIs, implemented JWT-based authentication, and integrated third-party services.",
+        "technologies": [
+          "JavaScript",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "REST API",
+          "JWT Authentication"
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "WebSphere Innovations",
+        "years": 1.2,
+        "description": "Worked on frontend and backend modules for enterprise applications. Improved application performance, created reusable React components, and automated deployment workflows.",
+        "technologies": [
+          "React.js",
+          "Redux",
+          "TypeScript",
+          "Node.js",
+          "Docker",
+          "AWS",
+          "CI/CD",
+          "Git"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Management Platform",
+        "description": "Designed and developed a full-stack e-commerce platform with product management, user authentication, order processing, and payment integration using MERN stack technologies.",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "JWT",
+          "REST API"
+        ]
+      },
+      {
+        "name": "Real-Time Task Collaboration System",
+        "description": "Built a collaborative task management application with role-based access control, real-time updates, and cloud deployment support.",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Socket.IO",
+          "Docker",
+          "AWS"
+        ]
+      }
+    ],
+    "certifications": [
+      "MongoDB Certified Developer",
+      "AWS Certified Cloud Practitioner"
+    ]
+  }
+}
