@@ -38,8 +38,16 @@ def run_agent1():
     Analyse this candidate profile and understand
     who they are and what jobs suit them.
 
-    CANDIDATE PROFILE:
-    {json.dumps(candidate, indent=2)}
+   CANDIDATE PROFILE:
+Name: {candidate['name']}
+Title: {candidate['current_title']}
+Experience: {candidate['experience_years']} years
+Skills: {', '.join(candidate['skills'])}
+Location: {candidate['location']}
+Preferred Roles: {', '.join(candidate['preferred_roles'])}
+
+CANDIDATE RESUME:
+{candidate['resume']['raw_text']}
 
     Return ONLY this JSON and nothing else:
     {{

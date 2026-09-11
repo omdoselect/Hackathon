@@ -21,29 +21,33 @@ def get_slim_candidate(candidate):
     }
 
 
+# def get_slim_resume(candidate):
+#     resume = candidate['resume']
+#     return {
+#         "summary": resume['summary'],
+#         "work_experience": [
+#             {
+#                 "title": exp['title'],
+#                 "company": exp['company'],
+#                 "years": exp['years'],
+#                 "description": exp['description'],
+#                 "technologies": exp['technologies']
+#             }
+#             for exp in resume['work_experience']
+#         ],
+#         "projects": [
+#             {
+#                 "name": p['name'],
+#                 "description": p['description'],
+#                 "technologies": p['technologies']
+#             }
+#             for p in resume['projects']
+#         ],
+#         "certifications": resume['certifications']
+#     }
 def get_slim_resume(candidate):
-    resume = candidate['resume']
     return {
-        "summary": resume['summary'],
-        "work_experience": [
-            {
-                "title": exp['title'],
-                "company": exp['company'],
-                "years": exp['years'],
-                "description": exp['description'],
-                "technologies": exp['technologies']
-            }
-            for exp in resume['work_experience']
-        ],
-        "projects": [
-            {
-                "name": p['name'],
-                "description": p['description'],
-                "technologies": p['technologies']
-            }
-            for p in resume['projects']
-        ],
-        "certifications": resume['certifications']
+        "resume_text": candidate['resume']['raw_text']
     }
 
 

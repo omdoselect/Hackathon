@@ -1,108 +1,30 @@
 {
-  "candidate_id": "CAND-205",
+  "candidate_id": "CAND-001",
   "name": "Rahul Verma",
-  "experience_years": 3.2,
   "current_title": "MERN Stack Developer",
-  "location": "Bangalore",
-  "expected_salary_lpa": 15,
-  "preferred_roles": [
-    "MERN Stack Developer",
-    "Full Stack JavaScript Developer",
-    "React.js Developer",
-    "Node.js Backend Developer",
-    "Full Stack Engineer"
-  ],
+  "experience_years": 3.2,
   "skills": [
-    "JavaScript",
-    "TypeScript",
     "React.js",
     "Node.js",
-    "Express.js",
     "MongoDB",
-    "Mongoose",
-    "REST API",
-    "Redux",
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Git",
-    "GitHub",
-    "JWT Authentication",
+    "Express.js",
+    "JavaScript",
+    "TypeScript",
     "Docker",
-    "AWS",
-    "CI/CD"
+    "AWS"
   ],
-  "education": {
-    "degree": "B.Tech. in Computer Science and Engineering",
-    "university": "National Institute of Technology"
-  },
+  "location": "pune",
+  "expected_salary_lpa": 15.0,
+  "preferred_roles": [
+    "MERN Stack Developer",
+    "Full Stack Engineer",
+    "React.js Developer"
+  ],
   "resume": {
-    "summary": "MERN Stack Developer with 3.2 years of experience building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Experienced in developing responsive user interfaces, REST APIs, authentication systems, and cloud-based deployments using modern JavaScript technologies.",
-    "work_experience": [
-      {
-        "title": "MERN Stack Developer",
-        "company": "TechNova Solutions",
-        "years": 2.0,
-        "description": "Developed and maintained full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Built REST APIs, implemented JWT-based authentication, and integrated third-party services.",
-        "technologies": [
-          "JavaScript",
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "Mongoose",
-          "REST API",
-          "JWT Authentication"
-        ]
-      },
-      {
-        "title": "Software Engineer",
-        "company": "WebSphere Innovations",
-        "years": 1.2,
-        "description": "Worked on frontend and backend modules for enterprise applications. Improved application performance, created reusable React components, and automated deployment workflows.",
-        "technologies": [
-          "React.js",
-          "Redux",
-          "TypeScript",
-          "Node.js",
-          "Docker",
-          "AWS",
-          "CI/CD",
-          "Git"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "E-Commerce Management Platform",
-        "description": "Designed and developed a full-stack e-commerce platform with product management, user authentication, order processing, and payment integration using MERN stack technologies.",
-        "technologies": [
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "Mongoose",
-          "JWT",
-          "REST API"
-        ]
-      },
-      {
-        "name": "Real-Time Task Collaboration System",
-        "description": "Built a collaborative task management application with role-based access control, real-time updates, and cloud deployment support.",
-        "technologies": [
-          "React.js",
-          "Node.js",
-          "MongoDB",
-          "Express.js",
-          "Socket.IO",
-          "Docker",
-          "AWS"
-        ]
-      }
-    ],
-    "certifications": [
-      "MongoDB Certified Developer",
-      "AWS Certified Cloud Practitioner"
-    ]
+    "raw_text": "RAHUL VERMAMERN Stack Developer\nBangalore, India  |  rahul.verma@email.com  |  +91 9876543210  |  linkedin.com/in/rahulverma\nSUMMARY\nMERN Stack Developer with 3.2 years of experience building scalable full-stack web applications using\nMongoDB, Express.js, React.js, and Node.js. Experienced in developing responsive user interfaces, REST\nAPIs, JWT authentication systems, and cloud-based deployments on AWS using Docker and CI/CD\npipelines.\nSKILLS\nFrontend: React.js, Redux, HTML5, CSS3, Tailwind CSS, TypeScript\nBackend: Node.js, Express.js, REST API, JWT Authentication, Socket.IO\nDatabase: MongoDB, Mongoose\nDevOps: Docker, AWS, CI/CD, Git, GitHub\nLanguages: JavaScript, TypeScript\nEXPERIENCE\nMERN Stack Developer \u2014 TechNova Solutions\nJune 2022 \u2013 Present | Bangalore\n\u007f Developed and maintained full-stack web applications using React.js, Node.js, Express.js, and\nMongoDB\n\u007f Built secure REST APIs with JWT-based authentication and integrated third-party payment gateways\n\u007f Improved application performance by 40% through code optimization and lazy loading techniques\n\u007f Collaborated with cross-functional teams in agile sprints with weekly deliverables\nSoftware Engineer \u2014 WebSphere Innovations\nJanuary 2021 \u2013 May 2022 | Bangalore\n\u007f Worked on frontend and backend modules for enterprise applications using React.js and Node.js\n\u007f Created reusable React components with Redux improving development speed by 30%\n\u007f Automated deployment workflows using Docker and AWS reducing deployment time by 50%\n\u007f Implemented CI/CD pipelines for automated testing and continuous integration\nPROJECTS\nE-Commerce Management Platform\nFull-stack e-commerce platform with product management, user authentication, order processing, and\npayment integration. Built using React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, REST API.\nReal-Time Task Collaboration System\nCollaborative task management application with role-based access control, real-time updates using\nSocket.IO, and cloud deployment on AWS using Docker. Built using React.js, Node.js, MongoDB,\nExpress.js.\nEDUCATION\nB.Tech in Computer Science and Engineering\nNational Institute of Technology, Bangalore \u2014 2021 | CGPA: 8.5/10\nCERTIFICATIONS\n\u007f MongoDB Certified Developer\n\n\u007f AWS Certified Cloud Practitioner\n\n",
+    "summary": "",
+    "work_experience": [],
+    "projects": [],
+    "certifications": []
   }
 }

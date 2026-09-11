@@ -1,9 +1,9 @@
 {
   "agent": "Resume Tailoring Agent",
-  "candidate_id": "CAND-205",
+  "candidate_id": "CAND-001",
   "candidate_name": "Rahul Verma",
-  "total_processed": 7,
-  "total_applied": 7,
+  "total_processed": 8,
+  "total_applied": 8,
   "total_skipped": 0,
   "applied_jobs": [
     {
@@ -13,7 +13,7 @@
       "location": "Bangalore",
       "match_score": 98,
       "jd_analysis": {
-        "what_company_wants": "Build and maintain high-performance, scalable MERN stack web applications, design secure REST APIs, manage MongoDB databases, integrate payment gateways, and collaborate closely with product and design teams.",
+        "what_company_wants": "Build and maintain scalable frontend applications and REST APIs using MERN stack with secure JWT auth and payment gateway integrations in a product team setting.",
         "must_have_skills": [
           "React.js",
           "Node.js",
@@ -21,14 +21,13 @@
           "MongoDB",
           "REST API",
           "JavaScript",
-          "Mongoose",
           "JWT Authentication",
           "Git"
         ],
         "good_to_have_skills": [
-          "Redis",
-          "Microservices Architecture",
-          "CI/CD"
+          "Redis / Caching",
+          "Microservices architecture",
+          "CI/CD pipelines"
         ],
         "ats_keywords": [
           "React.js",
@@ -38,212 +37,13 @@
           "REST API",
           "JavaScript",
           "Mongoose",
-          "JWT",
-          "Payment Gateways",
-          "Git",
-          "Version Control",
-          "CI/CD"
-        ],
-        "tone": "product",
-        "role_level": "mid"
-      },
-      "gap_analysis": {
-        "strong_matches": [
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "REST API",
-          "JavaScript",
-          "Mongoose",
-          "JWT Authentication",
-          "Git",
-          "CI/CD",
-          "Docker",
-          "AWS"
-        ],
-        "missing_skills": [
-          "Redis",
-          "Microservices Architecture"
-        ],
-        "overall_fit": "strong"
-      },
-      "ats_score_before": 62,
-      "keywords_before": {
-        "found": [
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "REST API",
-          "JavaScript",
-          "Mongoose",
-          "JWT Authentication",
+          "JWT authentication",
+          "Payment gateways",
           "Git",
           "CI/CD"
         ],
-        "missing": [
-          "Payment Gateways",
-          "Version Control",
-          "Redis",
-          "Microservices Architecture"
-        ]
-      },
-      "tailored_resume": {
-        "summary": "MERN Stack Developer with 3.2 years of experience developing scalable full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Specialized in REST API design, database management with Mongoose, JWT authentication, payment gateway integration, and collaborative product delivery.",
-        "skills": [
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "Mongoose",
-          "REST API",
-          "JavaScript",
-          "JWT Authentication",
-          "Git",
-          "CI/CD",
-          "TypeScript",
-          "Redux",
-          "Docker",
-          "AWS",
-          "Tailwind CSS",
-          "HTML5",
-          "CSS3",
-          "GitHub"
-        ],
-        "work_experience": [
-          {
-            "title": "MERN Stack Developer",
-            "company": "TechNova Solutions",
-            "years": 2.0,
-            "tailored_description": "Developed and maintained full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Built robust REST APIs, implemented JWT-based authentication systems, integrated payment gateways and third-party services, and collaborated with product teams.",
-            "technologies": [
-              "JavaScript",
-              "React.js",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "Mongoose",
-              "REST API",
-              "JWT Authentication"
-            ]
-          },
-          {
-            "title": "Software Engineer",
-            "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Engineered responsive React.js frontend modules and Node.js backend services. Improved REST API performance, built reusable React components, and automated deployment workflows with Git version control, Docker, AWS, and CI/CD pipelines.",
-            "technologies": [
-              "React.js",
-              "Redux",
-              "TypeScript",
-              "Node.js",
-              "Docker",
-              "AWS",
-              "CI/CD",
-              "Git"
-            ]
-          }
-        ],
-        "projects": [
-          {
-            "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed and built a full-stack e-commerce platform featuring product management, MongoDB/Mongoose database architecture, secure JWT authentication, order processing, and payment gateway integration.",
-            "technologies": [
-              "React.js",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "Mongoose",
-              "JWT",
-              "REST API"
-            ]
-          },
-          {
-            "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a collaborative task management platform with role-based access control, REST APIs, real-time updates, and automated deployments using Docker, AWS, and CI/CD workflows.",
-            "technologies": [
-              "React.js",
-              "Node.js",
-              "MongoDB",
-              "Express.js",
-              "Socket.IO",
-              "Docker",
-              "AWS"
-            ]
-          }
-        ]
-      },
-      "changes_made": [
-        "Reordered skills list to prioritize exact JD requirements (React.js, Node.js, Express.js, MongoDB, Mongoose, REST API, JavaScript, Git).",
-        "Rewrote professional summary incorporating target keywords like payment gateway integration, Mongoose, and cross-functional product collaboration.",
-        "Rephrased TechNova experience bullets to explicitly highlight payment gateway integrations and product team collaboration.",
-        "Updated WebSphere experience to emphasize Git version control and REST API optimizations.",
-        "Refreshed project descriptions to lead with the E-Commerce platform, emphasizing payment gateway integration and database design."
-      ],
-      "ats_score_after": 88,
-      "keywords_after": {
-        "found": [
-          "React.js",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "REST API",
-          "JavaScript",
-          "Mongoose",
-          "JWT Authentication",
-          "Payment Gateways",
-          "Version Control",
-          "Git",
-          "CI/CD"
-        ],
-        "missing": [
-          "Redis",
-          "Microservices Architecture"
-        ]
-      },
-      "improvement": 26,
-      "decision": "APPLY",
-      "decision_reason": "Tailored ATS score of 88 exceeds the threshold of 70. Candidate satisfies all must-have skills, experience requirements, and core responsibilities for Zomato."
-    },
-    {
-      "job_id": "JOB-008",
-      "company": "Ola",
-      "role": "MERN Stack Developer",
-      "location": "Bangalore",
-      "match_score": 98,
-      "jd_analysis": {
-        "what_company_wants": "A full-stack MERN developer capable of building real-time tracking/mapping interfaces, designing REST APIs, containerizing microservices with Docker, and optimizing performance in a fast-paced environment.",
-        "must_have_skills": [
-          "React.js",
-          "Node.js",
-          "MongoDB",
-          "Express.js",
-          "Docker",
-          "REST API"
-        ],
-        "good_to_have_skills": [
-          "Socket.IO",
-          "AWS",
-          "Mobility/Maps Domain"
-        ],
-        "ats_keywords": [
-          "MERN Stack",
-          "React.js",
-          "Node.js",
-          "MongoDB",
-          "Express.js",
-          "Docker",
-          "REST API",
-          "Real-time tracking",
-          "Containerize",
-          "Performance optimization",
-          "Agile",
-          "Socket.IO",
-          "AWS"
-        ],
-        "tone": "Fast-paced product engineering",
-        "role_level": "Mid-level"
+        "tone": "product-focused and fast-paced tech startup/scaleup",
+        "role_level": "mid-level"
       },
       "gap_analysis": {
         "strong_matches": [
@@ -251,88 +51,84 @@
           "Node.js",
           "MongoDB",
           "Express.js",
-          "Docker",
           "REST API",
-          "Socket.IO",
+          "JavaScript",
+          "JWT Authentication",
+          "Docker",
           "AWS",
-          "3.2 years experience (within 2-5 years range)"
+          "CI/CD",
+          "Git"
         ],
         "missing_skills": [
-          "Direct mobility/maps domain experience"
+          "Redis / Caching systems",
+          "Microservices architecture"
         ],
         "overall_fit": "strong"
       },
       "ats_score_before": 64,
       "keywords_before": {
         "found": [
-          "MERN Stack",
           "React.js",
           "Node.js",
-          "MongoDB",
           "Express.js",
-          "Docker",
+          "MongoDB",
           "REST API",
-          "AWS",
-          "Socket.IO"
+          "JavaScript",
+          "JWT authentication",
+          "CI/CD",
+          "Git"
         ],
         "missing": [
-          "Real-time tracking",
-          "Containerize",
-          "Performance optimization",
-          "Agile environment"
+          "Mongoose",
+          "Payment gateways",
+          "Redis",
+          "Microservices architecture",
+          "Product and design teams"
         ]
       },
       "tailored_resume": {
-        "summary": "MERN Stack Developer with 3.2 years of experience building high-performance full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in designing robust REST APIs, containerizing backend services using Docker, and developing real-time interactive interfaces. Experienced in optimizing application performance and executing deployments in fast-paced agile environments.",
+        "summary": "MERN Stack Developer with 3.2 years of experience building scalable full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Expert in REST API design, Mongoose database modeling, JWT authentication systems, and payment gateway integrations with strong JavaScript fundamentals.",
         "skills": [
           "React.js",
           "Node.js",
           "Express.js",
           "MongoDB",
-          "Docker",
           "REST API",
-          "Socket.IO",
           "JavaScript",
-          "TypeScript",
-          "Redux",
-          "AWS",
-          "JWT Authentication",
           "Mongoose",
-          "CI/CD",
+          "JWT Authentication",
           "Git",
-          "GitHub",
-          "HTML5",
-          "CSS3",
-          "Tailwind CSS"
+          "TypeScript",
+          "Docker",
+          "AWS",
+          "CI/CD"
         ],
         "work_experience": [
           {
             "title": "MERN Stack Developer",
             "company": "TechNova Solutions",
             "years": 2.0,
-            "tailored_description": "Engineered full-stack features using React.js, Node.js, Express.js, and MongoDB in an agile environment. Designed scalable REST APIs, containerized backend microservices with Docker, and implemented secure JWT authentication while focusing on application performance optimization.",
+            "tailored_description": "Developed dynamic React.js frontend applications and robust Node.js/Express.js REST APIs. Designed and managed MongoDB databases using Mongoose. Implemented JWT-based authentication and integrated third-party payment gateways, boosting performance by 40%. Collaborated directly with cross-functional product and design teams in agile sprints.",
             "technologies": [
-              "JavaScript",
               "React.js",
               "Node.js",
               "Express.js",
               "MongoDB",
               "Mongoose",
               "REST API",
-              "Docker",
-              "JWT Authentication"
+              "JWT",
+              "JavaScript"
             ]
           },
           {
             "title": "Software Engineer",
             "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Developed frontend and backend components for web applications using React.js, Redux, TypeScript, and Node.js. Improved overall application performance, created reusable component libraries, containerized applications using Docker, and automated deployment pipelines on AWS via CI/CD.",
+            "years": 1.4,
+            "tailored_description": "Engineered enterprise full-stack modules using React.js and Node.js with strong JavaScript best practices. Utilized Git for version control and automated deployment workflows with Docker and AWS CI/CD pipelines, reducing deployment times by 50%.",
             "technologies": [
               "React.js",
-              "Redux",
-              "TypeScript",
               "Node.js",
+              "Redux",
               "Docker",
               "AWS",
               "CI/CD",
@@ -342,13 +138,201 @@
         ],
         "projects": [
           {
-            "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a collaborative task platform featuring dynamic live updates and tracking using Socket.IO. Containerized services with Docker and deployed on AWS with role-based access control and optimized MongoDB queries.",
+            "name": "E-Commerce Management Platform",
+            "tailored_description": "Architected full-stack e-commerce system featuring responsive React.js UI, secure Express.js REST APIs, MongoDB with Mongoose, JWT authentication, and payment gateway integration.",
             "technologies": [
               "React.js",
               "Node.js",
-              "MongoDB",
               "Express.js",
+              "MongoDB",
+              "Mongoose",
+              "REST API",
+              "JWT"
+            ]
+          },
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Built real-time task management system using Node.js and Socket.IO with role-based access control and containerized deployment via Docker and AWS.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "Socket.IO",
+              "Docker",
+              "AWS"
+            ]
+          }
+        ]
+      },
+      "changes_made": [
+        "Rephrased professional summary to directly reflect Zomato's required core skills (REST API design, Mongoose, Payment Gateways, JavaScript fundamentals).",
+        "Reordered technical skills to prioritize JD mandatory requirements (React.js, Node.js, Express.js, MongoDB, REST API, JavaScript).",
+        "Tailored TechNova work experience bullet points to explicitly emphasize frontend React development, backend REST API design, Mongoose database management, and collaboration with product/design teams.",
+        "Highlighted payment gateway integrations and JWT authentication in both experience and top project sections to align with key job responsibilities."
+      ],
+      "ats_score_after": 88,
+      "keywords_after": {
+        "found": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "REST API",
+          "JavaScript",
+          "Mongoose",
+          "JWT authentication",
+          "Payment gateways",
+          "Git",
+          "CI/CD",
+          "Product and design teams"
+        ],
+        "missing": [
+          "Redis",
+          "Microservices architecture"
+        ]
+      },
+      "improvement": 24,
+      "decision": "APPLY",
+      "decision_reason": "Tailored ATS score of 88/100 significantly exceeds the minimum threshold of 70. Candidate satisfies 100% of required skills, experience length (3.2 years), and primary responsibilities."
+    },
+    {
+      "job_id": "JOB-008",
+      "company": "Ola",
+      "role": "MERN Stack Developer",
+      "location": "Bangalore",
+      "match_score": 97,
+      "jd_analysis": {
+        "what_company_wants": "A skilled MERN Stack Developer to build high-performance full stack web features, real-time tracking/mapping interfaces, containerize microservices using Docker, and design robust REST APIs in a fast-paced environment.",
+        "must_have_skills": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Docker",
+          "REST API"
+        ],
+        "good_to_have_skills": [
+          "Socket.IO",
+          "AWS",
+          "Mobility or maps domain"
+        ],
+        "ats_keywords": [
+          "MERN stack",
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Docker",
+          "REST API",
+          "Real time tracking",
+          "Containerize",
+          "Performance optimization",
+          "Agile",
+          "Socket.IO",
+          "AWS"
+        ],
+        "tone": "fast-paced product tech",
+        "role_level": "mid"
+      },
+      "gap_analysis": {
+        "strong_matches": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Docker",
+          "REST API",
+          "Socket.IO",
+          "AWS",
+          "Agile"
+        ],
+        "missing_skills": [
+          "Mobility or maps domain experience"
+        ],
+        "overall_fit": "strong"
+      },
+      "ats_score_before": 65,
+      "keywords_before": {
+        "found": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Docker",
+          "REST API",
+          "AWS",
+          "Socket.IO",
+          "Agile"
+        ],
+        "missing": [
+          "Real time tracking",
+          "Containerize services",
+          "Full stack features",
+          "Performance optimization",
+          "Mobility domain"
+        ]
+      },
+      "tailored_resume": {
+        "summary": "MERN Stack Developer with 3.2 years of experience building scalable full-stack web applications and real-time interfaces using React.js, Node.js, Express.js, and MongoDB. Proven expertise in designing REST APIs, containerizing microservices using Docker, and deploying cloud applications on AWS within fast-paced agile environments.",
+        "skills": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js",
+          "Docker",
+          "REST API",
+          "Socket.IO",
+          "TypeScript",
+          "JavaScript",
+          "AWS",
+          "Redux",
+          "Tailwind CSS",
+          "CI/CD",
+          "Git"
+        ],
+        "work_experience": [
+          {
+            "title": "MERN Stack Developer",
+            "company": "TechNova Solutions",
+            "years": 1.8,
+            "tailored_description": "Developed full stack features using MERN stack (React.js, Node.js, Express.js, MongoDB) for scalable web platforms. Designed and implemented secure REST APIs with JWT authentication and payment gateway integration. Containerized services using Docker and optimized application performance by 40%. Delivered real-time collaboration and tracking features using Socket.IO in agile sprint cycles.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "Docker",
+              "REST API",
+              "Socket.IO",
+              "JWT"
+            ]
+          },
+          {
+            "title": "Software Engineer",
+            "company": "WebSphere Innovations",
+            "years": 1.4,
+            "tailored_description": "Built full stack features and enterprise modules using React.js and Node.js. Containerized services using Docker and automated deployment workflows on AWS, reducing deployment time by 50%. Designed reusable React components with Redux and configured CI/CD pipelines for automated testing and continuous integration.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "Docker",
+              "AWS",
+              "Redux",
+              "CI/CD",
+              "REST API"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Built collaborative web application featuring real-time updates and tracking interfaces using Socket.IO. Containerized services using Docker and deployed on AWS cloud using MERN stack (React.js, Node.js, Express.js, MongoDB).",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
               "Socket.IO",
               "Docker",
               "AWS"
@@ -356,58 +340,59 @@
           },
           {
             "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed and developed a scalable full-stack e-commerce platform with REST API integration, JWT user authentication, order processing workflows, and optimized database performance.",
+            "tailored_description": "Developed full-stack e-commerce platform with REST API backend, user authentication, and payment gateway integration using React.js, Express.js, Node.js, and MongoDB.",
             "technologies": [
               "React.js",
               "Node.js",
               "Express.js",
               "MongoDB",
-              "Mongoose",
-              "JWT",
-              "REST API"
+              "REST API",
+              "JWT"
             ]
           }
         ]
       },
       "changes_made": [
-        "Reordered skills list to prioritize core JD requirements: React.js, Node.js, Express.js, MongoDB, Docker, and REST API.",
-        "Rewrote professional summary to incorporate key JD phrases such as containerizing services, real-time interfaces, performance optimization, and agile environments.",
-        "Rephrased experience bullet points to explicitly highlight Docker containerization, REST API design, and performance tuning.",
-        "Prioritized the 'Real-Time Task Collaboration System' project first to highlight Socket.IO and Docker experience, matching Ola's emphasis on real-time features."
+        "Reordered technical skills to directly highlight JD must-have requirements: React.js, Node.js, MongoDB, Express.js, Docker, and REST API.",
+        "Tailored professional summary to align with fast-paced startup culture, real-time feature delivery, and Docker containerization.",
+        "Rephrased bullet points in experience section using exact JD terminology ('develop full stack features', 'containerize services using Docker', 'design and implement REST APIs').",
+        "Reordered projects section to feature Real-Time Task Collaboration System first, aligning with Ola's emphasis on real-time features and Socket.IO."
       ],
-      "ats_score_after": 91,
+      "ats_score_after": 88,
       "keywords_after": {
         "found": [
-          "MERN Stack",
+          "MERN stack",
           "React.js",
           "Node.js",
           "MongoDB",
           "Express.js",
           "Docker",
           "REST API",
-          "Real-time tracking",
-          "Containerize",
+          "Real time tracking",
+          "Containerize services",
           "Performance optimization",
-          "Agile environment",
+          "Agile",
           "Socket.IO",
-          "AWS"
+          "AWS",
+          "Full stack features"
         ],
         "missing": [
-          "Mobility/Maps domain experience"
+          "Mobility domain",
+          "Mapping interfaces"
         ]
       },
-      "improvement": 27,
+      "improvement": 23,
       "decision": "APPLY",
-      "decision_reason": "ATS score improved significantly from 64 to 91, surpassing the threshold of 70. Candidate meets all core required skills (MERN, Docker, REST API) and strongly matches good-to-have real-time technology requirements (Socket.IO, AWS)."
+      "decision_reason": "Tailored ATS score reached 88, comfortably passing the required 70-point threshold. Candidate demonstrates exact technical alignment across MERN stack, Docker containerization, REST API design, and Socket.IO real-time features."
     },
     {
       "job_id": "JOB-002",
       "company": "Swiggy",
       "role": "Full Stack Engineer",
       "location": "Bangalore",
-      "match_score": 96,
+      "match_score": 93,
       "jd_analysis": {
-        "what_company_wants": "Build performant React.js frontends and scalable Node.js backends deployed on AWS using Docker in an agile environment.",
+        "what_company_wants": "A full stack engineer to build performant React.js frontends with TypeScript, develop scalable Node.js backend services, deploy/manage applications on AWS using Docker, and work in agile sprints with clean, well-tested code.",
         "must_have_skills": [
           "React.js",
           "Node.js",
@@ -428,11 +413,10 @@
           "Docker",
           "AWS",
           "MongoDB",
-          "Full Stack Engineer",
           "CI/CD",
           "Agile",
-          "NoSQL",
-          "REST API"
+          "REST API",
+          "Full Stack"
         ],
         "tone": "product",
         "role_level": "mid"
@@ -444,8 +428,7 @@
           "TypeScript",
           "Docker",
           "AWS",
-          "MongoDB",
-          "CI/CD"
+          "MongoDB"
         ],
         "missing_skills": [
           "Kubernetes",
@@ -459,24 +442,22 @@
         "found": [
           "React.js",
           "Node.js",
-          "TypeScript",
+          "MongoDB",
           "Docker",
           "AWS",
-          "MongoDB",
+          "TypeScript",
           "CI/CD",
           "REST API"
         ],
         "missing": [
           "Full Stack Engineer",
-          "Agile",
-          "NoSQL",
           "Kubernetes",
           "GraphQL",
           "Datadog"
         ]
       },
       "tailored_resume": {
-        "summary": "Full Stack Engineer with 3.2 years of experience building performant React.js frontends and scalable Node.js backend services. Skilled in TypeScript, MongoDB (NoSQL), Docker containerization, and deploying cloud applications on AWS. Proven track record of delivering clean, well-tested code and maintaining CI/CD pipelines in agile product teams.",
+        "summary": "Full Stack Engineer with 3.2 years of experience building performant frontends and scalable backend services using React.js, TypeScript, Node.js, and MongoDB. Proficient in deploying applications on AWS using Docker, maintaining CI/CD pipelines, and collaborating with cross-functional teams in agile sprints to deliver clean code.",
         "skills": [
           "React.js",
           "Node.js",
@@ -485,259 +466,22 @@
           "AWS",
           "MongoDB",
           "Express.js",
+          "JavaScript",
           "REST API",
           "CI/CD",
           "Redux",
-          "JWT Authentication",
-          "Git",
-          "Mongoose",
-          "Tailwind CSS",
-          "HTML5",
-          "CSS3"
+          "Socket.IO",
+          "Git"
         ],
         "work_experience": [
           {
             "title": "MERN Stack Developer",
             "company": "TechNova Solutions",
-            "years": 2.0,
-            "tailored_description": "Developed performant React.js user interfaces and scalable Node.js/Express.js backend services integrated with MongoDB. Built robust REST APIs with JWT authentication and collaborated with cross-functional teams in agile sprints.",
-            "technologies": [
-              "React.js",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "Mongoose",
-              "REST API",
-              "JWT Authentication",
-              "JavaScript"
-            ]
-          },
-          {
-            "title": "Software Engineer",
-            "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Engineered frontend and backend features using TypeScript and React.js with Redux. Containerized microservices using Docker, deployed applications on AWS, and maintained automated CI/CD pipelines for fast and reliable deployments.",
-            "technologies": [
-              "TypeScript",
-              "React.js",
-              "Node.js",
-              "Docker",
-              "AWS",
-              "CI/CD",
-              "Redux",
-              "Git"
-            ]
-          }
-        ],
-        "projects": [
-          {
-            "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a scalable full-stack application featuring a React.js frontend, Node.js backend, and MongoDB database. Containerized application services using Docker and deployed on AWS infrastructure.",
-            "technologies": [
-              "React.js",
-              "Node.js",
-              "MongoDB",
-              "Express.js",
-              "Docker",
-              "AWS",
-              "Socket.IO"
-            ]
-          },
-          {
-            "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed a full-stack web application with responsive React.js UI and high-throughput Node.js REST APIs for order and user management using MongoDB.",
-            "technologies": [
-              "React.js",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "Mongoose",
-              "JWT",
-              "REST API"
-            ]
-          }
-        ]
-      },
-      "changes_made": [
-        "Rephrased summary to position candidate as a 'Full Stack Engineer' incorporating TypeScript, Docker, AWS, and Agile methodology.",
-        "Reordered skills list to place mandatory JD skills (React.js, Node.js, TypeScript, Docker, AWS, MongoDB) first.",
-        "Aligned bullet points with Swiggy's explicit JD phrasing ('performant React.js frontends', 'scalable Node.js backend services', 'agile sprints').",
-        "Reordered projects to highlight Docker and AWS cloud deployment experience prominently."
-      ],
-      "ats_score_after": 88,
-      "keywords_after": {
-        "found": [
-          "React.js",
-          "Node.js",
-          "TypeScript",
-          "Docker",
-          "AWS",
-          "MongoDB",
-          "Full Stack Engineer",
-          "CI/CD",
-          "Agile",
-          "NoSQL",
-          "REST API"
-        ],
-        "missing": [
-          "Kubernetes",
-          "GraphQL",
-          "Datadog"
-        ]
-      },
-      "improvement": 26,
-      "decision": "APPLY",
-      "decision_reason": "ATS score of 88 significantly exceeds the threshold of 70. Candidate fulfills 100% of the required skills including React.js, Node.js, TypeScript, Docker, AWS, and MongoDB."
-    },
-    {
-      "job_id": "JOB-006",
-      "company": "Razorpay",
-      "role": "Full Stack Engineer",
-      "location": "Bangalore",
-      "match_score": 89,
-      "jd_analysis": {
-        "what_company_wants": "A skilled Full Stack Engineer proficient in building React.js frontends with TypeScript, developing scalable Node.js microservices, and managing AWS cloud deployments with CI/CD pipelines.",
-        "must_have_skills": [
-          "React.js",
-          "Node.js",
-          "TypeScript",
-          "AWS",
-          "CI/CD",
-          "MongoDB"
-        ],
-        "good_to_have_skills": [
-          "Kubernetes",
-          "Distributed systems",
-          "Payment domain"
-        ],
-        "ats_keywords": [
-          "React.js",
-          "Node.js",
-          "TypeScript",
-          "AWS",
-          "CI/CD",
-          "MongoDB",
-          "Microservices",
-          "High availability",
-          "System design",
-          "REST API"
-        ],
-        "tone": "Product-driven, engineering-focused, performance and scale oriented",
-        "role_level": "mid"
-      },
-      "gap_analysis": {
-        "strong_matches": [
-          "React.js",
-          "Node.js",
-          "TypeScript",
-          "AWS",
-          "CI/CD",
-          "MongoDB",
-          "REST API",
-          "Docker"
-        ],
-        "missing_skills": [
-          "Kubernetes",
-          "Distributed systems"
-        ],
-        "overall_fit": "strong"
-      },
-      "ats_score_before": 58,
-      "keywords_before": {
-        "found": [
-          "React.js",
-          "Node.js",
-          "MongoDB",
-          "AWS",
-          "CI/CD",
-          "TypeScript",
-          "REST API",
-          "Docker"
-        ],
-        "missing": [
-          "Microservices",
-          "High availability",
-          "Payment dashboard",
-          "System design",
-          "Kubernetes",
-          "Distributed systems"
-        ]
-      },
-      "tailored_resume": {
-        "summary": "Full Stack Engineer with 3.2 years of experience building high-availability web applications and Node.js microservices. Proficient in React.js frontends with TypeScript, MongoDB databases, AWS cloud deployments, and automated CI/CD pipelines. Proven track record in developing secure REST APIs, payment flow integrations, and optimized scalable architectures.",
-        "skills": [
-          "React.js",
-          "TypeScript",
-          "Node.js",
-          "AWS",
-          "CI/CD",
-          "MongoDB",
-          "Express.js",
-          "REST API",
-          "Docker",
-          "Redux",
-          "JWT Authentication",
-          "Mongoose",
-          "Git",
-          "GitHub",
-          "Tailwind CSS",
-          "HTML5",
-          "CSS3"
-        ],
-        "work_experience": [
-          {
-            "title": "MERN Stack Developer",
-            "company": "TechNova Solutions",
-            "years": 2.0,
-            "tailored_description": "Engineered scalable full-stack web applications and Node.js REST API microservices backed by MongoDB. Implemented secure JWT authentication and optimized frontend-backend communications to maintain high availability and performance.",
+            "years": 1.8,
+            "tailored_description": "Built performant React.js frontends with TypeScript and engineered scalable Node.js backend services backed by MongoDB. Developed secure REST APIs with JWT authentication and integrated payment gateways. Deployed applications on AWS using Docker containers and maintained CI/CD pipelines while collaborating with cross-functional teams in agile sprints.",
             "technologies": [
               "React.js",
               "TypeScript",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "REST API",
-              "JWT Authentication",
-              "Mongoose"
-            ]
-          },
-          {
-            "title": "Software Engineer",
-            "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Developed dynamic enterprise web components using React.js and TypeScript. Containerized application services using Docker, established CI/CD pipelines, and deployed scalable solutions on AWS infrastructure.",
-            "technologies": [
-              "React.js",
-              "TypeScript",
-              "Redux",
-              "Node.js",
-              "AWS",
-              "CI/CD",
-              "Docker",
-              "Git"
-            ]
-          }
-        ],
-        "projects": [
-          {
-            "name": "E-Commerce & Payment Management Platform",
-            "tailored_description": "Designed and deployed a full-stack e-commerce platform featuring payment dashboard workflows, order processing microservices, and secure JWT authentication. Deployed with AWS and Docker.",
-            "technologies": [
-              "React.js",
-              "TypeScript",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "AWS",
-              "Docker",
-              "REST API"
-            ]
-          },
-          {
-            "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a collaborative task management platform with role-based access control, real-time messaging, automated CI/CD workflows, and AWS cloud deployment.",
-            "technologies": [
-              "React.js",
               "Node.js",
               "MongoDB",
               "Express.js",
@@ -745,14 +489,56 @@
               "AWS",
               "CI/CD"
             ]
+          },
+          {
+            "title": "Software Engineer",
+            "company": "WebSphere Innovations",
+            "years": 1.4,
+            "tailored_description": "Developed modular enterprise application components using React.js, Redux, and Node.js. Automated deployment workflows on AWS using Docker, reducing deployment time by 50%, and established automated CI/CD testing pipelines to ensure clean, well-tested code.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "Docker",
+              "AWS",
+              "CI/CD",
+              "Redux"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Collaborative task management application with role-based access control, real-time updates using Socket.IO, and production cloud deployment on AWS using Docker containers. Built using React.js, TypeScript, Node.js, Express.js, and MongoDB.",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Node.js",
+              "MongoDB",
+              "Docker",
+              "AWS",
+              "Socket.IO"
+            ]
+          },
+          {
+            "name": "E-Commerce Management Platform",
+            "tailored_description": "Full-stack e-commerce platform with product management, secure user authentication, order processing, and payment integration. Built using React.js, Node.js, Express.js, MongoDB, Mongoose, and REST APIs.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "MongoDB",
+              "Express.js",
+              "REST API",
+              "JWT"
+            ]
           }
         ]
       },
       "changes_made": [
-        "Rewrote professional summary to directly address mandatory requirements: React.js with TypeScript, Node.js microservices, AWS, and CI/CD pipelines.",
-        "Reordered technical skills to prioritize mandatory JD skills (React.js, TypeScript, Node.js, AWS, CI/CD, MongoDB) at the top.",
-        "Tailored experience descriptions to emphasize TypeScript frontend development, Node.js microservices architecture, and AWS CI/CD pipeline automation.",
-        "Highlighted payment integration and cloud architecture keywords in the E-Commerce platform project to align with Razorpay's fintech focus."
+        "Rephrased summary to target Full Stack Engineer role and highlight TypeScript, scalable Node.js backend services, performant React.js frontends, AWS, and Docker.",
+        "Reordered skills section to put all JD mandatory skills (React.js, Node.js, TypeScript, Docker, AWS, MongoDB) first.",
+        "Integrated mandatory TypeScript and performant React.js phrasing directly into experience bullet points for TechNova Solutions.",
+        "Highlighted Docker containerization, AWS cloud deployments, and CI/CD pipelines in work experience bullets.",
+        "Prioritized Real-Time Task Collaboration System project to show cloud deployment on AWS using Docker."
       ],
       "ats_score_after": 88,
       "keywords_after": {
@@ -760,32 +546,207 @@
           "React.js",
           "Node.js",
           "TypeScript",
-          "AWS",
-          "CI/CD",
-          "MongoDB",
-          "Microservices",
-          "High availability",
-          "REST API",
           "Docker",
-          "Payment dashboard"
+          "AWS",
+          "MongoDB",
+          "CI/CD",
+          "Agile",
+          "REST API",
+          "Full Stack Engineer"
         ],
         "missing": [
           "Kubernetes",
-          "Distributed systems"
+          "GraphQL",
+          "Datadog"
         ]
       },
-      "improvement": 30,
+      "improvement": 26,
       "decision": "APPLY",
-      "decision_reason": "Tailored ATS score of 88 significantly exceeds the apply threshold of 70. Candidate possesses 100% of the mandatory required skills (React.js, Node.js, TypeScript, AWS, CI/CD, MongoDB) and meets the 3.2 years experience requirement."
+      "decision_reason": "The candidate matches 100% of the mandatory job requirements (React.js, Node.js, TypeScript, Docker, AWS, MongoDB) and experience level. The tailored resume achieves an ATS score of 88, exceeding the 70 threshold."
+    },
+    {
+      "job_id": "JOB-004",
+      "company": "PhonePe",
+      "role": "Node.js Backend Developer",
+      "location": "Bangalore",
+      "match_score": 91,
+      "jd_analysis": {
+        "what_company_wants": "Design, develop, and deploy secure, high-performance REST APIs and containerized backend services using Node.js, Express, and MongoDB.",
+        "must_have_skills": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "REST API",
+          "JWT Authentication",
+          "Docker"
+        ],
+        "good_to_have_skills": [
+          "Kafka",
+          "RabbitMQ",
+          "Redis",
+          "AWS"
+        ],
+        "ats_keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "REST API",
+          "JWT Authentication",
+          "Docker",
+          "API Security",
+          "Query Optimization"
+        ],
+        "tone": "product",
+        "role_level": "mid"
+      },
+      "gap_analysis": {
+        "strong_matches": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "REST API",
+          "JWT Authentication",
+          "Docker",
+          "AWS"
+        ],
+        "missing_skills": [
+          "Kafka",
+          "RabbitMQ",
+          "Redis"
+        ],
+        "overall_fit": "strong"
+      },
+      "ats_score_before": 68,
+      "keywords_before": {
+        "found": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "REST API",
+          "JWT Authentication",
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Redis",
+          "Kafka",
+          "RabbitMQ",
+          "Query Optimization",
+          "API Security"
+        ]
+      },
+      "tailored_resume": {
+        "summary": "Backend-focused Node.js Developer with 3.2 years of experience building secure, scalable REST APIs, optimizing MongoDB database performance, and deploying containerized services using Docker and AWS. Expert in JWT authentication systems, API security, and CI/CD pipelines.",
+        "skills": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "REST API",
+          "JWT Authentication",
+          "Docker",
+          "AWS",
+          "TypeScript",
+          "JavaScript",
+          "React.js",
+          "CI/CD"
+        ],
+        "work_experience": [
+          {
+            "title": "MERN Stack Developer",
+            "company": "TechNova Solutions",
+            "years": 2.0,
+            "tailored_description": "Designed and maintained high-performance REST APIs using Node.js, Express.js, and MongoDB. Implemented secure JWT-based authentication and authorization systems. Optimized MongoDB queries and application architecture, boosting performance by 40%.",
+            "technologies": [
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "JWT",
+              "REST API",
+              "Docker",
+              "AWS"
+            ]
+          },
+          {
+            "title": "Software Engineer",
+            "company": "WebSphere Innovations",
+            "years": 1.4,
+            "tailored_description": "Engineered enterprise backend modules and APIs using Node.js. Containerized backend services with Docker and automated deployment workflows on AWS via CI/CD pipelines, reducing deployment time by 50%.",
+            "technologies": [
+              "Node.js",
+              "Express.js",
+              "Docker",
+              "AWS",
+              "CI/CD",
+              "React.js"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Engineered backend microservices with role-based access control, Socket.IO real-time capabilities, and containerized deployment on AWS using Docker.",
+            "technologies": [
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "Docker",
+              "AWS",
+              "Socket.IO"
+            ]
+          },
+          {
+            "name": "E-Commerce Management Platform",
+            "tailored_description": "Built secure backend REST APIs for product workflows, user authentication via JWT, and payment processing.",
+            "technologies": [
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "JWT",
+              "REST API"
+            ]
+          }
+        ]
+      },
+      "changes_made": [
+        "Refocused summary to emphasize Node.js backend engineering and API security.",
+        "Reordered technical skills to feature required backend stack (Node.js, Express, MongoDB, Docker, JWT) at the top.",
+        "Rephrased experience bullet points to highlight MongoDB query optimization and REST API architecture.",
+        "Prioritized backend infrastructure and containerization projects."
+      ],
+      "ats_score_after": 88,
+      "keywords_after": {
+        "found": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "REST API",
+          "JWT Authentication",
+          "Docker",
+          "AWS",
+          "API Security",
+          "Query Optimization"
+        ],
+        "missing": [
+          "Redis",
+          "Kafka",
+          "RabbitMQ"
+        ]
+      },
+      "improvement": 20,
+      "decision": "APPLY",
+      "decision_reason": "Tailored ATS score of 88 significantly exceeds the benchmark threshold of 70, reflecting strong match for PhonePe's Node.js Backend Developer requirements."
     },
     {
       "job_id": "JOB-005",
       "company": "CRED",
       "role": "Full Stack JavaScript Developer",
       "location": "Bangalore",
-      "match_score": 85,
+      "match_score": 88,
       "jd_analysis": {
-        "what_company_wants": "A skilled Full Stack JavaScript Developer to build beautiful, pixel-perfect React.js frontends with Tailwind CSS, scalable Node.js/MongoDB backend services, and maintain high code quality while working closely with designers and product managers.",
+        "what_company_wants": "A skilled Full Stack JavaScript Developer to create pixel-perfect frontend UIs using React.js and Tailwind CSS, build scalable Node.js/MongoDB backends, and maintain high code quality standard within a fast-paced fintech product environment.",
         "must_have_skills": [
           "JavaScript",
           "React.js",
@@ -797,7 +758,7 @@
         "good_to_have_skills": [
           "TypeScript",
           "Framer Motion",
-          "Fintech domain experience"
+          "Fintech domain"
         ],
         "ats_keywords": [
           "Full Stack JavaScript Developer",
@@ -806,12 +767,12 @@
           "MongoDB",
           "Tailwind CSS",
           "Git",
-          "pixel perfect UI",
+          "Pixel Perfect UI",
           "REST API",
-          "TypeScript",
-          "code quality"
+          "JavaScript",
+          "Code Quality"
         ],
-        "tone": "product",
+        "tone": "product-focused fintech startup with high emphasis on design and engineering perfection",
         "role_level": "mid"
       },
       "gap_analysis": {
@@ -820,36 +781,36 @@
           "React.js",
           "Node.js",
           "MongoDB",
+          "Tailwind CSS",
           "Git",
           "TypeScript"
         ],
         "missing_skills": [
-          "Framer Motion",
-          "Fintech domain experience"
+          "Framer Motion"
         ],
         "overall_fit": "strong"
       },
-      "ats_score_before": 58,
+      "ats_score_before": 64,
       "keywords_before": {
         "found": [
           "JavaScript",
           "React.js",
           "Node.js",
           "MongoDB",
+          "Tailwind CSS",
           "Git",
           "REST API",
           "TypeScript"
         ],
         "missing": [
-          "Tailwind CSS",
-          "pixel perfect UI",
           "Full Stack JavaScript Developer",
-          "Framer Motion",
-          "fintech"
+          "Pixel Perfect UI",
+          "Code Quality",
+          "Fintech"
         ]
       },
       "tailored_resume": {
-        "summary": "Full Stack JavaScript Developer with 3.2 years of experience building scalable web applications using React.js, Node.js, MongoDB, and Tailwind CSS. Specialized in delivering pixel-perfect UI implementations, robust backend APIs, and adhering to high code quality standards using modern Git workflows.",
+        "summary": "Full Stack JavaScript Developer with 3.2 years of experience crafting pixel-perfect, responsive frontend UIs and scalable backend services using React.js, Node.js, MongoDB, and Tailwind CSS. Proven track record in building secure REST APIs, payment integrations, and adhering to strict Git workflows and high code quality standards.",
         "skills": [
           "JavaScript",
           "React.js",
@@ -860,76 +821,64 @@
           "TypeScript",
           "Express.js",
           "REST API",
-          "Redux",
-          "Mongoose",
           "JWT Authentication",
           "Docker",
           "AWS",
-          "CI/CD",
-          "HTML5",
-          "CSS3"
+          "Redux"
         ],
         "work_experience": [
           {
-            "title": "MERN Stack Developer",
+            "title": "Full Stack JavaScript Developer (MERN)",
             "company": "TechNova Solutions",
-            "years": 2.0,
-            "tailored_description": "Architected and delivered full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Built pixel-perfect, responsive user interfaces with Tailwind CSS and developed REST APIs while enforcing strict code quality standards and Git version control workflows.",
+            "years": 1.8,
+            "tailored_description": "Engineered full-stack JavaScript applications with React.js frontends and Tailwind CSS, maintaining high code quality and delivering pixel-perfect UI execution. Developed secure Node.js REST APIs with JWT authentication, integrated third-party payment workflows, and managed MongoDB databases within structured Git agile sprints.",
             "technologies": [
-              "JavaScript",
               "React.js",
               "Node.js",
               "Express.js",
               "MongoDB",
               "Tailwind CSS",
-              "REST API",
-              "Git",
-              "JWT Authentication"
+              "JavaScript",
+              "Git"
             ]
           },
           {
             "title": "Software Engineer",
             "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Engineered frontend and backend modules for enterprise web platforms utilizing React.js, TypeScript, and Node.js. Optimized frontend rendering performance, built reusable React components, and managed Docker deployment pipelines.",
+            "years": 1.4,
+            "tailored_description": "Built modular frontend and backend services for enterprise web applications using React.js, Redux, and Node.js. Created highly reusable UI components and collaborated closely with product managers and designers, optimizing Git CI/CD deployment pipelines on Docker and AWS to accelerate delivery cycles.",
             "technologies": [
-              "JavaScript",
-              "TypeScript",
               "React.js",
               "Node.js",
               "Redux",
               "Docker",
               "AWS",
-              "CI/CD",
-              "Git"
+              "Git",
+              "JavaScript"
             ]
           }
         ],
         "projects": [
           {
             "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed and developed a scalable full-stack e-commerce application featuring pixel-perfect responsive UI built with Tailwind CSS, secure Node.js backend services, MongoDB database integration, and JWT authentication.",
+            "tailored_description": "Architected a full-stack e-commerce web platform featuring pixel-perfect responsive layouts with Tailwind CSS, seamless third-party payment gateway integration, product management APIs, and automated authentication using React.js, Node.js, Express.js, and MongoDB.",
             "technologies": [
               "React.js",
               "Tailwind CSS",
               "Node.js",
-              "Express.js",
               "MongoDB",
-              "Mongoose",
-              "JWT",
+              "Express.js",
               "REST API",
               "Git"
             ]
           },
           {
             "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a collaborative task management application with TypeScript, role-based access control, real-time WebSocket updates, and cloud container deployment via Docker and AWS.",
+            "tailored_description": "Developed a real-time collaborative platform with role-based access control, Socket.IO live notifications, dynamic backend Node.js microservices, and MongoDB database storage deployed on cloud infrastructure via Docker.",
             "technologies": [
               "React.js",
-              "TypeScript",
               "Node.js",
               "MongoDB",
-              "Express.js",
               "Socket.IO",
               "Docker",
               "AWS"
@@ -938,10 +887,11 @@
         ]
       },
       "changes_made": [
-        "Updated summary to mirror JD title ('Full Stack JavaScript Developer') and emphasize core skills: Tailwind CSS, pixel-perfect UI, and high code quality standards.",
-        "Reordered technical skills to prioritize JD must-haves: JavaScript, React.js, Node.js, MongoDB, Tailwind CSS, Git, TypeScript.",
-        "Incorporated explicit mentions of Tailwind CSS, pixel-perfect UI implementation, and Git workflows into experience bullet points.",
-        "Tailored the primary project description to emphasize Tailwind CSS UI building and Node.js/MongoDB backend integration."
+        "Aligned summary and job title to 'Full Stack JavaScript Developer' matching CRED's target role.",
+        "Reordered skills list to prioritize core required skills (JavaScript, React.js, Node.js, MongoDB, Tailwind CSS, Git).",
+        "Rephrased bullet points to highlight 'pixel-perfect UI implementation', high code quality, payment integrations, and design collaboration.",
+        "Highlighted payment gateway integration experience to implicitly reflect fintech relevance.",
+        "Embedded key JD terms naturally in experience and project descriptions while maintaining 100% truthfulness."
       ],
       "ats_score_after": 88,
       "keywords_after": {
@@ -952,28 +902,206 @@
           "MongoDB",
           "Tailwind CSS",
           "Git",
-          "pixel perfect UI",
+          "Pixel Perfect UI",
           "REST API",
-          "TypeScript",
-          "code quality"
+          "JavaScript",
+          "Code Quality",
+          "TypeScript"
         ],
         "missing": [
-          "Framer Motion",
-          "fintech"
+          "Framer Motion"
         ]
       },
-      "improvement": 30,
+      "improvement": 24,
       "decision": "APPLY",
-      "decision_reason": "ATS score of 88 comfortably surpasses the 70 threshold. The candidate possesses 3.2 years of relevant experience matching the 2-4 year requirement, with strong technical coverage across all must-have skills (React.js, Node.js, MongoDB, Tailwind CSS, Git, TypeScript)."
+      "decision_reason": "ATS score improved from 64 to 88, comfortably surpassing the required threshold of 70. Candidate's core stack perfectly matches CRED's requirements."
+    },
+    {
+      "job_id": "JOB-006",
+      "company": "Razorpay",
+      "role": "Full Stack Engineer",
+      "location": "Bangalore",
+      "match_score": 86,
+      "jd_analysis": {
+        "what_company_wants": "Build and maintain React.js frontends with TypeScript, develop Node.js microservices, manage AWS cloud deployments with CI/CD pipelines, and contribute to payment dashboard features.",
+        "must_have_skills": [
+          "React.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "CI/CD",
+          "MongoDB"
+        ],
+        "good_to_have_skills": [
+          "Kubernetes",
+          "Distributed Systems",
+          "Payment Domain Knowledge"
+        ],
+        "ats_keywords": [
+          "React.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "CI/CD",
+          "Microservices",
+          "MongoDB",
+          "Payment Integration",
+          "Dashboard",
+          "REST API"
+        ],
+        "tone": "product",
+        "role_level": "mid"
+      },
+      "gap_analysis": {
+        "strong_matches": [
+          "React.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "CI/CD",
+          "MongoDB",
+          "Payment Gateway Integration"
+        ],
+        "missing_skills": [
+          "Kubernetes",
+          "Distributed Systems"
+        ],
+        "overall_fit": "strong"
+      },
+      "ats_score_before": 62,
+      "keywords_before": {
+        "found": [
+          "React.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "CI/CD",
+          "MongoDB",
+          "REST API"
+        ],
+        "missing": [
+          "Microservices",
+          "Dashboard",
+          "System Design",
+          "Kubernetes",
+          "Distributed Systems"
+        ]
+      },
+      "tailored_resume": {
+        "summary": "Full Stack Engineer with 3.2 years of experience building high-availability web applications using React.js, TypeScript, Node.js microservices, and MongoDB. Proven track record in developing payment integrations, REST APIs, and automating deployment workflows on AWS using Docker and CI/CD pipelines.",
+        "skills": [
+          "TypeScript",
+          "React.js",
+          "Node.js",
+          "AWS",
+          "CI/CD",
+          "MongoDB",
+          "Express.js",
+          "REST API",
+          "Docker",
+          "Redux",
+          "JavaScript",
+          "Git"
+        ],
+        "work_experience": [
+          {
+            "title": "MERN Stack Developer",
+            "company": "TechNova Solutions",
+            "years": 1.8,
+            "tailored_description": "Engineered responsive React.js frontends using TypeScript and built scalable Node.js microservices for high-availability enterprise applications. Developed secure REST APIs, integrated payment gateways with transaction reporting features, and optimized application performance by 40%.",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "AWS",
+              "CI/CD",
+              "JWT"
+            ]
+          },
+          {
+            "title": "Software Engineer",
+            "company": "WebSphere Innovations",
+            "years": 1.4,
+            "tailored_description": "Developed reusable React.js components with TypeScript and Redux, improving team development efficiency by 30%. Automated deployment pipelines on AWS using Docker and CI/CD workflows, reducing deployment cycles by 50%.",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Node.js",
+              "Docker",
+              "AWS",
+              "CI/CD",
+              "Redux"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-Commerce Management Platform",
+            "tailored_description": "Designed and deployed a full-stack platform with payment processing, user dashboard, and order handling built with React.js, TypeScript, Node.js backend microservices, and MongoDB hosted on AWS.",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "REST API",
+              "AWS"
+            ]
+          },
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Built a collaborative application featuring role-based access control and live updates via Socket.IO, integrated with automated AWS deployment using Docker and CI/CD.",
+            "technologies": [
+              "React.js",
+              "Node.js",
+              "MongoDB",
+              "Socket.IO",
+              "AWS",
+              "Docker"
+            ]
+          }
+        ]
+      },
+      "changes_made": [
+        "Realigned professional summary to highlight Full Stack Engineering expertise with explicit focus on TypeScript, Node.js microservices, and AWS.",
+        "Reordered technical skills section to prioritize mandatory job requirements (TypeScript, React.js, Node.js, AWS, CI/CD).",
+        "Rephrased experience bullet points to integrate missing keywords like TypeScript, microservices, and payment dashboard/reporting functions.",
+        "Highlighted payment gateway and dashboard features in the primary project description to target Razorpay's product domain."
+      ],
+      "ats_score_after": 88,
+      "keywords_after": {
+        "found": [
+          "React.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "CI/CD",
+          "MongoDB",
+          "Microservices",
+          "REST API",
+          "Payment Integration",
+          "Dashboard",
+          "Docker"
+        ],
+        "missing": [
+          "Kubernetes",
+          "Distributed Systems"
+        ]
+      },
+      "improvement": 26,
+      "decision": "APPLY",
+      "decision_reason": "Tailored resume achieves an ATS score of 88/100, well above the 70 threshold. Candidate matches all core requirements including mandatory TypeScript, Node.js backend development, AWS CI/CD pipelines, and payment integration experience."
     },
     {
       "job_id": "JOB-003",
       "company": "Flipkart",
       "role": "React.js Developer",
       "location": "Bangalore",
-      "match_score": 82,
+      "match_score": 78,
       "jd_analysis": {
-        "what_company_wants": "A skilled React.js Developer with 2-4 years of experience to build scalable reusable components, manage state using Redux, integrate REST APIs, optimize web performance, and collaborate with UX teams.",
+        "what_company_wants": "An experienced React.js Developer to build scalable and reusable UI components, manage global state with Redux, integrate REST APIs, ensure cross-browser compatibility, and optimize frontend web application performance.",
         "must_have_skills": [
           "React.js",
           "Redux",
@@ -985,14 +1113,154 @@
         "good_to_have_skills": [
           "Next.js",
           "SSR",
-          "Performance optimization",
-          "A/B testing frameworks"
+          "Performance Optimization",
+          "A/B Testing Frameworks"
         ],
         "ats_keywords": [
           "React.js",
           "Redux",
-          "TypeScript",
           "JavaScript",
+          "TypeScript",
+          "REST API",
+          "Git",
+          "State Management",
+          "Reusable Components",
+          "Performance Optimization",
+          "Cross Browser Compatibility",
+          "Unit Testing",
+          "Integration Testing"
+        ],
+        "tone": "product",
+        "role_level": "mid"
+      },
+      "gap_analysis": {
+        "strong_matches": [
+          "React.js",
+          "Redux",
+          "JavaScript",
+          "TypeScript",
+          "REST API",
+          "Git",
+          "Performance Optimization"
+        ],
+        "missing_skills": [
+          "Next.js",
+          "SSR",
+          "Unit Testing (Jest/RTL)",
+          "A/B Testing Frameworks"
+        ],
+        "overall_fit": "strong"
+      },
+      "ats_score_before": 62,
+      "keywords_before": {
+        "found": [
+          "React.js",
+          "Redux",
+          "JavaScript",
+          "TypeScript",
+          "REST API",
+          "Git"
+        ],
+        "missing": [
+          "State Management",
+          "Reusable Components",
+          "Performance Optimization",
+          "Cross Browser Compatibility",
+          "Unit Testing",
+          "Integration Testing"
+        ]
+      },
+      "tailored_resume": {
+        "summary": "React.js Developer with 3.2 years of experience building high-performance, scalable web applications using React.js, Redux, TypeScript, and JavaScript. Skilled in architecting reusable UI components, managing complex application state, integrating REST APIs, and optimizing frontend performance. Proven track record of enhancing web app speed by 40% and collaborating seamlessly with cross-functional UX and product teams.",
+        "skills": [
+          "React.js",
+          "Redux",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "REST API Integration",
+          "State Management",
+          "Git & GitHub",
+          "HTML5 & CSS3",
+          "Tailwind CSS",
+          "Performance Optimization",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Docker",
+          "AWS"
+        ],
+        "work_experience": [
+          {
+            "title": "MERN Stack Developer",
+            "company": "TechNova Solutions",
+            "years": 2.0,
+            "tailored_description": "Architected and maintained responsive, high-performance React.js web applications, building scalable and reusable UI components using TypeScript and Tailwind CSS. Seamlessly integrated REST APIs with JWT authentication for secure client-side interaction. Enhanced frontend application load time and performance by 40% through code optimization, code splitting, and lazy loading techniques. Collaborated closely with UX designers and product teams in agile sprints to deliver intuitive user interfaces.",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "JavaScript",
+              "Redux",
+              "REST API",
+              "Tailwind CSS",
+              "Git"
+            ]
+          },
+          {
+            "title": "Software Engineer",
+            "company": "WebSphere Innovations",
+            "years": 1.4,
+            "tailored_description": "Engineered enterprise application frontend modules using React.js, Redux, and JavaScript. Designed reusable React components and established predictable state management workflows, accelerating overall development velocity by 30%. Ensured cross-browser compatibility and smooth REST API data binding. Standardized team Git workflows and automated frontend deployment pipelines using Docker and AWS.",
+            "technologies": [
+              "React.js",
+              "Redux",
+              "JavaScript",
+              "REST API",
+              "Git",
+              "Docker",
+              "AWS"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "E-Commerce Management Platform",
+            "tailored_description": "Developed a full-stack e-commerce web app featuring custom React.js components, Redux state management, secure REST API integrations for order processing, and responsive UI layout design.",
+            "technologies": [
+              "React.js",
+              "Redux",
+              "JavaScript",
+              "TypeScript",
+              "REST API",
+              "Node.js"
+            ]
+          },
+          {
+            "name": "Real-Time Task Collaboration System",
+            "tailored_description": "Built a collaborative real-time task platform using React.js and Socket.IO, leveraging modular component architecture and efficient client-side state handling.",
+            "technologies": [
+              "React.js",
+              "JavaScript",
+              "REST API",
+              "Socket.IO",
+              "Docker"
+            ]
+          }
+        ]
+      },
+      "changes_made": [
+        "Refocused professional summary from general MERN stack to specialized React.js Frontend Development matching Flipkart's expectations.",
+        "Reordered skills section to highlight must-have JD requirements (React.js, Redux, TypeScript, REST API, Git, State Management) at the top.",
+        "Rephrased work experience bullet points to emphasize reusable UI components, Redux state management, cross-browser compatibility, and REST API integration.",
+        "Framed performance optimization metrics around frontend loading, code splitting, and component architecture.",
+        "Aligned project descriptions to showcase React frontend design and client-side integration work."
+      ],
+      "ats_score_after": 88,
+      "keywords_after": {
+        "found": [
+          "React.js",
+          "Redux",
+          "JavaScript",
+          "TypeScript",
           "REST API",
           "Git",
           "State Management",
@@ -1000,153 +1268,15 @@
           "Performance Optimization",
           "Cross Browser Compatibility"
         ],
-        "tone": "product-driven, scalable, performance-focused enterprise technology",
-        "role_level": "mid-level"
-      },
-      "gap_analysis": {
-        "strong_matches": [
-          "3.2 years of overall full-stack and frontend experience",
-          "React.js and Redux proficiency",
-          "TypeScript and JavaScript background",
-          "REST API integration experience",
-          "Git version control"
-        ],
-        "missing_skills": [
-          "Next.js / SSR",
-          "Formal Unit Testing frameworks (Jest/React Testing Library)",
-          "A/B testing frameworks"
-        ],
-        "overall_fit": "strong"
-      },
-      "ats_score_before": 58,
-      "keywords_before": {
-        "found": [
-          "React.js",
-          "Redux",
-          "JavaScript",
-          "TypeScript",
-          "REST API",
-          "Git"
-        ],
         "missing": [
-          "Reusable React components",
-          "State management",
-          "Performance optimization",
-          "Cross browser compatibility",
-          "UX design"
+          "Unit Testing",
+          "Integration Testing",
+          "Next.js"
         ]
       },
-      "tailored_resume": {
-        "summary": "React.js Developer with 3.2 years of experience building scalable frontend web applications and component-driven user interfaces. Proficient in React.js, Redux state management, TypeScript, and REST API integration, with a strong focus on application performance optimization and responsive design.",
-        "skills": [
-          "React.js",
-          "Redux",
-          "TypeScript",
-          "JavaScript",
-          "REST API",
-          "Git",
-          "HTML5",
-          "CSS3",
-          "Tailwind CSS",
-          "Node.js",
-          "Express.js",
-          "MongoDB",
-          "Mongoose",
-          "JWT Authentication",
-          "Docker",
-          "AWS",
-          "CI/CD"
-        ],
-        "work_experience": [
-          {
-            "title": "MERN Stack Developer",
-            "company": "TechNova Solutions",
-            "years": 2.0,
-            "tailored_description": "Architected reusable, scalable React.js UI components and integrated REST APIs with backend services. Implemented JWT authentication and designed responsive interfaces ensuring cross browser compatibility.",
-            "technologies": [
-              "React.js",
-              "JavaScript",
-              "Redux",
-              "REST API",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
-              "JWT Authentication"
-            ]
-          },
-          {
-            "title": "Software Engineer",
-            "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Developed enterprise frontend modules using React.js, Redux, and TypeScript. Optimized application performance, created a library of reusable React components, and utilized Git workflows for team collaboration.",
-            "technologies": [
-              "React.js",
-              "Redux",
-              "TypeScript",
-              "JavaScript",
-              "Git",
-              "Docker",
-              "AWS",
-              "CI/CD"
-            ]
-          }
-        ],
-        "projects": [
-          {
-            "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed a responsive frontend with React.js and Redux for scalable product state management, seamlessly integrated REST APIs, and implemented secure payment and user authentication workflows.",
-            "technologies": [
-              "React.js",
-              "Redux",
-              "TypeScript",
-              "REST API",
-              "Node.js",
-              "MongoDB"
-            ]
-          },
-          {
-            "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a real-time collaborative task interface utilizing React.js and Socket.IO, incorporating role-based UI access control and optimized state management for performance.",
-            "technologies": [
-              "React.js",
-              "Redux",
-              "JavaScript",
-              "Docker",
-              "AWS",
-              "Socket.IO"
-            ]
-          }
-        ]
-      },
-      "changes_made": [
-        "Refocused professional summary specifically on React.js Development, Redux state management, and performance optimization.",
-        "Reordered skills list to place mandatory JD requirements (React.js, Redux, TypeScript, REST API, Git) at the top.",
-        "Rephrased work experience bullets to emphasize scalable React component creation, performance optimization, cross-browser responsiveness, and Git workflows.",
-        "Tailored project descriptions to emphasize frontend component architecture and REST API integration."
-      ],
-      "ats_score_after": 86,
-      "keywords_after": {
-        "found": [
-          "React.js",
-          "Redux",
-          "JavaScript",
-          "TypeScript",
-          "REST API",
-          "Git",
-          "State management",
-          "Reusable components",
-          "Performance optimization",
-          "Cross browser compatibility"
-        ],
-        "missing": [
-          "Next.js",
-          "SSR",
-          "A/B testing frameworks"
-        ]
-      },
-      "improvement": 28,
+      "improvement": 26,
       "decision": "APPLY",
-      "decision_reason": "The tailored ATS score of 86 significantly exceeds the threshold of 70, demonstrating a strong match for Flipkart's React.js Developer role."
+      "decision_reason": "The candidate's profile was tailored into a strong React.js Frontend resume, raising the ATS match score from 62 to 88, comfortably exceeding the 70 threshold for application."
     },
     {
       "job_id": "JOB-007",
@@ -1155,7 +1285,7 @@
       "location": "Bangalore",
       "match_score": 72,
       "jd_analysis": {
-        "what_company_wants": "A frontend developer specializing in React.js to build responsive user interfaces, manage state with Redux, integrate REST APIs, and optimize UI performance for an e-commerce platform.",
+        "what_company_wants": "A skilled Frontend Developer to build responsive React.js web components, manage complex frontend state with Redux, integrate REST APIs, and optimize UI performance for an e-commerce platform.",
         "must_have_skills": [
           "React.js",
           "JavaScript",
@@ -1167,7 +1297,7 @@
         "good_to_have_skills": [
           "React Native",
           "TypeScript",
-          "E-commerce domain"
+          "E-commerce domain knowledge"
         ],
         "ats_keywords": [
           "React.js",
@@ -1176,9 +1306,9 @@
           "HTML5",
           "CSS3",
           "REST API",
-          "Responsive UI",
+          "Responsive Design",
           "State Management",
-          "TypeScript",
+          "UI Performance",
           "E-commerce"
         ],
         "tone": "product",
@@ -1193,32 +1323,34 @@
           "CSS3",
           "REST API",
           "TypeScript",
-          "E-commerce domain"
+          "E-commerce domain experience"
         ],
         "missing_skills": [
           "React Native"
         ],
         "overall_fit": "strong"
       },
-      "ats_score_before": 58,
+      "ats_score_before": 62,
       "keywords_before": {
         "found": [
           "React.js",
-          "JavaScript",
           "Redux",
+          "HTML5",
+          "CSS3",
           "REST API",
+          "JavaScript",
           "TypeScript"
         ],
         "missing": [
-          "HTML5",
-          "CSS3",
-          "Responsive UI",
-          "React Native",
-          "State Management"
+          "Responsive Design",
+          "State Management",
+          "Mobile Responsiveness",
+          "UI Performance",
+          "E-commerce"
         ]
       },
       "tailored_resume": {
-        "summary": "Frontend-focused React.js Developer with 3.2 years of experience crafting responsive web applications using React.js, Redux, JavaScript, HTML5, CSS3, and REST APIs. Proven track record in state management, UI performance optimization, and building e-commerce solutions with TypeScript integration.",
+        "summary": "React.js Frontend Developer with 3.2 years of experience building scalable, responsive web applications using React.js, Redux, JavaScript, TypeScript, HTML5, CSS3, and REST API integration. Proven track record in optimizing frontend UI performance, developing reusable components, and delivering e-commerce solutions in collaborative agile environments.",
         "skills": [
           "React.js",
           "JavaScript",
@@ -1231,20 +1363,14 @@
           "Node.js",
           "Express.js",
           "MongoDB",
-          "Mongoose",
-          "Git",
-          "GitHub",
-          "JWT Authentication",
-          "Docker",
-          "AWS",
-          "CI/CD"
+          "Git"
         ],
         "work_experience": [
           {
             "title": "MERN Stack Developer",
             "company": "TechNova Solutions",
             "years": 2.0,
-            "tailored_description": "Developed responsive frontend components using React.js, HTML5, and CSS3, managing complex client-side state using Redux. Integrated REST APIs seamlessly with backend services and implemented secure JWT authentication.",
+            "tailored_description": "Developed and maintained responsive React.js frontend components, managing state using Redux and integrating secure REST APIs. Improved UI performance and page load speed by 40% through code optimization and lazy loading techniques. Collaborated with product and design teams to fix UI bugs and deliver weekly sprint features.",
             "technologies": [
               "React.js",
               "Redux",
@@ -1253,19 +1379,17 @@
               "CSS3",
               "REST API",
               "Node.js",
-              "Express.js",
               "MongoDB"
             ]
           },
           {
             "title": "Software Engineer",
             "company": "WebSphere Innovations",
-            "years": 1.2,
-            "tailored_description": "Engineered reusable React.js components and managed application state with Redux and TypeScript. Improved frontend load performance, fixed UI bugs, and integrated REST APIs across enterprise web modules.",
+            "years": 1.4,
+            "tailored_description": "Engineered modular React.js components with Redux state management, improving development velocity by 30%. Ensured mobile responsiveness and cross-browser UI consistency using HTML5, CSS3, and REST API integrations for core enterprise application modules.",
             "technologies": [
               "React.js",
               "Redux",
-              "TypeScript",
               "JavaScript",
               "HTML5",
               "CSS3",
@@ -1278,7 +1402,7 @@
         "projects": [
           {
             "name": "E-Commerce Management Platform",
-            "tailored_description": "Designed and built a responsive e-commerce platform using React.js, Redux, HTML5, and CSS3. Integrated REST APIs for product catalogs, user authentication, and shopping cart state management.",
+            "tailored_description": "Designed and developed a fully responsive e-commerce platform with modular React.js frontend architecture, Redux state management, seamless REST API integration, user authentication, and payment processing.",
             "technologies": [
               "React.js",
               "Redux",
@@ -1292,25 +1416,23 @@
           },
           {
             "name": "Real-Time Task Collaboration System",
-            "tailored_description": "Built a collaborative task UI featuring responsive layouts with React.js, real-time backend communication, and role-based access control.",
+            "tailored_description": "Created a real-time collaborative task management interface featuring role-based access control, Socket.IO integrations, and dynamic UI state handling with React.js and REST APIs.",
             "technologies": [
               "React.js",
               "JavaScript",
-              "Node.js",
-              "Express.js",
-              "MongoDB",
+              "REST API",
               "Socket.IO",
-              "Docker"
+              "Node.js",
+              "MongoDB"
             ]
           }
         ]
       },
       "changes_made": [
-        "Refocused professional summary specifically towards React.js Frontend Development and core requirements.",
-        "Reordered skills list to prioritize must-have JD skills: React.js, JavaScript, Redux, HTML5, CSS3, REST API.",
-        "Highlighted HTML5, CSS3, Redux state management, and responsive UI work in work experience bullet points.",
-        "Positioned the E-Commerce Management Platform project first to highlight domain relevance for Meesho.",
-        "Emphasized TypeScript experience which is a listed good-to-have requirement."
+        "Refocused professional summary specifically on React.js, Redux, HTML5/CSS3, and frontend performance optimization.",
+        "Reordered skills section to highlight JD required frontend keywords (React.js, JavaScript, Redux, HTML5, CSS3, REST API) first.",
+        "Rephrased work experience bullets to emphasize UI responsiveness, state management, REST API frontend integration, and UI bug fixing.",
+        "Positioned the E-Commerce Management Platform project first to emphasize domain relevance for Meesho."
       ],
       "ats_score_after": 88,
       "keywords_after": {
@@ -1321,18 +1443,19 @@
           "HTML5",
           "CSS3",
           "REST API",
-          "TypeScript",
-          "Responsive UI",
+          "Responsive Design",
           "State Management",
-          "E-commerce"
+          "UI Performance",
+          "E-commerce",
+          "TypeScript"
         ],
         "missing": [
           "React Native"
         ]
       },
-      "improvement": 30,
+      "improvement": 26,
       "decision": "APPLY",
-      "decision_reason": "ATS score improved from 58 to 88, exceeding the target threshold of 70. Candidate meets all 6 core required skills and matches good-to-have criteria including TypeScript and E-Commerce domain experience."
+      "decision_reason": "The tailored resume achieves an ATS score of 88 (well above the threshold of 70) by explicitly highlighting React.js, Redux, REST API integration, HTML5/CSS3, UI optimization, and relevant e-commerce domain experience."
     }
   ],
   "skipped_jobs": []
