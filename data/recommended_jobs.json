@@ -1,0 +1,175 @@
+{
+  "agent": "JD Recommendation Agent",
+  "candidate_id": "CAND-205",
+  "candidate_name": "Rahul Verma",
+  "total_jobs_scanned": 10,
+  "total_jobs_recommended": 8,
+  "total_jobs_rejected": 2,
+  "recommended_jobs": [
+    {
+      "job_id": "JOB-001",
+      "company": "Zomato",
+      "role": "MERN Stack Developer",
+      "location": "Bangalore",
+      "match_score": 98,
+      "matched_skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "REST API",
+        "JavaScript"
+      ],
+      "missing_skills": [],
+      "match_reason": "Perfect match across all required skills, experience level (3.2 years fits 2-4 years), exact target role title, and ideal location.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-008",
+      "company": "Ola",
+      "role": "MERN Stack Developer",
+      "location": "Bangalore",
+      "match_score": 98,
+      "matched_skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Docker",
+        "REST API"
+      ],
+      "missing_skills": [],
+      "match_reason": "Complete skill overlap including Docker and REST API, ideal experience range (2-5 years), and exact role match.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-002",
+      "company": "Swiggy",
+      "role": "Full Stack Engineer",
+      "location": "Bangalore",
+      "match_score": 96,
+      "matched_skills": [
+        "React.js",
+        "Node.js",
+        "TypeScript",
+        "Docker",
+        "AWS",
+        "MongoDB"
+      ],
+      "missing_skills": [],
+      "match_reason": "Strong match for full stack profile leveraging TypeScript, Docker, and AWS skills. Candidate's 3.2 years experience matches the 3-5 years requirement.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-004",
+      "company": "PhonePe",
+      "role": "Node.js Backend Developer",
+      "location": "Bangalore",
+      "match_score": 91,
+      "matched_skills": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST API",
+        "Docker"
+      ],
+      "missing_skills": [
+        "JWT Authentication"
+      ],
+      "match_reason": "Excellent match for candidate's backend skills (Node.js, Express, MongoDB, Docker) and ideal experience range.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-006",
+      "company": "Razorpay",
+      "role": "Full Stack Engineer",
+      "location": "Bangalore",
+      "match_score": 89,
+      "matched_skills": [
+        "React.js",
+        "Node.js",
+        "TypeScript",
+        "AWS",
+        "MongoDB"
+      ],
+      "missing_skills": [
+        "CI/CD"
+      ],
+      "match_reason": "High match for full stack responsibilities with React, Node, TypeScript, and AWS. Missing explicit CI/CD experience.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-005",
+      "company": "CRED",
+      "role": "Full Stack JavaScript Developer",
+      "location": "Bangalore",
+      "match_score": 85,
+      "matched_skills": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "missing_skills": [
+        "Tailwind CSS",
+        "Git"
+      ],
+      "match_reason": "Strong alignment with candidate's core MERN stack capabilities and target title, slightly penalized for missing specific UI styling stack.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-003",
+      "company": "Flipkart",
+      "role": "React.js Developer",
+      "location": "Bangalore",
+      "match_score": 82,
+      "matched_skills": [
+        "React.js",
+        "JavaScript",
+        "TypeScript",
+        "REST API"
+      ],
+      "missing_skills": [
+        "Redux",
+        "Git"
+      ],
+      "match_reason": "Good frontend role match with matching React/JS/TS capabilities, though candidate focuses on full-stack rather than pure frontend.",
+      "priority": "High"
+    },
+    {
+      "job_id": "JOB-007",
+      "company": "Meesho",
+      "role": "React.js Frontend Developer",
+      "location": "Bangalore",
+      "match_score": 72,
+      "matched_skills": [
+        "React.js",
+        "JavaScript",
+        "REST API"
+      ],
+      "missing_skills": [
+        "Redux",
+        "HTML5",
+        "CSS3"
+      ],
+      "match_reason": "Slight under-utilization of backend skills, lower salary range, and candidate slightly exceeds the requested experience bracket (1-3 years).",
+      "priority": "Medium"
+    }
+  ],
+  "rejected_jobs": [
+    {
+      "job_id": "JOB-009",
+      "company": "Infosys",
+      "role": "Java Backend Developer",
+      "match_score": 32,
+      "rejection_reason": "Poor tech stack match (Java/Spring Boot/SQL vs JS/MERN). Contains candidate weak areas (SQL, Microservices)."
+    },
+    {
+      "job_id": "JOB-010",
+      "company": "TCS",
+      "role": "Data Engineer",
+      "match_score": 25,
+      "rejection_reason": "Mismatch in domain, role, location, and technology stack. Requires SQL which is a candidate weak area."
+    }
+  ]
+}

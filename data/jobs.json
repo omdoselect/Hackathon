@@ -1,0 +1,390 @@
+[
+  {
+    "job_id": "JOB-001",
+    "company": "Zomato",
+    "role": "MERN Stack Developer",
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "salary_range": "12-20 LPA",
+    "skills_required": [
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "REST API",
+      "JavaScript"
+    ],
+    "job_description": {
+      "summary": "We are looking for a MERN Stack Developer to build scalable food delivery web applications.",
+      "responsibilities": [
+        "Develop and maintain React.js frontend applications",
+        "Build and manage Node.js and Express.js REST APIs",
+        "Design and manage MongoDB databases",
+        "Implement JWT based authentication systems",
+        "Integrate third party services and payment gateways",
+        "Collaborate with product and design teams"
+      ],
+      "requirements": [
+        "2-4 years of MERN stack development experience",
+        "Strong JavaScript fundamentals",
+        "Experience with REST API design and integration",
+        "Knowledge of MongoDB and Mongoose",
+        "Familiarity with Git and version control"
+      ],
+      "good_to_have": [
+        "Experience with Redis or caching systems",
+        "Knowledge of microservices architecture",
+        "Familiarity with CI/CD pipelines"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-002",
+    "company": "Swiggy",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience_required": "3-5 years",
+    "salary_range": "15-25 LPA",
+    "skills_required": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "Docker",
+      "AWS",
+      "MongoDB"
+    ],
+    "job_description": {
+      "summary": "Swiggy is hiring a Full Stack Engineer to build and scale consumer web platforms.",
+      "responsibilities": [
+        "Build performant React.js frontends with TypeScript",
+        "Develop scalable Node.js backend services",
+        "Deploy and manage applications on AWS using Docker",
+        "Maintain CI/CD pipelines for automated deployments",
+        "Collaborate with cross functional teams in agile sprints",
+        "Write clean and well tested code"
+      ],
+      "requirements": [
+        "3-5 years of full stack development experience",
+        "Strong React.js and Node.js skills",
+        "TypeScript experience is mandatory",
+        "Docker and AWS deployment experience",
+        "Knowledge of MongoDB or any NoSQL database"
+      ],
+      "good_to_have": [
+        "Experience with Kubernetes",
+        "Knowledge of GraphQL",
+        "Familiarity with monitoring tools like Datadog"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-003",
+    "company": "Flipkart",
+    "role": "React.js Developer",
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "salary_range": "14-22 LPA",
+    "skills_required": [
+      "React.js",
+      "Redux",
+      "JavaScript",
+      "TypeScript",
+      "REST API",
+      "Git"
+    ],
+    "job_description": {
+      "summary": "Flipkart is looking for a React.js Developer to build high performance e-commerce interfaces.",
+      "responsibilities": [
+        "Develop reusable and scalable React.js components",
+        "Manage application state using Redux",
+        "Integrate REST APIs into frontend applications",
+        "Ensure cross browser compatibility and performance",
+        "Write unit and integration tests",
+        "Work closely with UX designers"
+      ],
+      "requirements": [
+        "2-4 years of React.js development experience",
+        "Strong Redux and state management knowledge",
+        "TypeScript experience preferred",
+        "Good understanding of REST API integration",
+        "Git workflow experience mandatory"
+      ],
+      "good_to_have": [
+        "Experience with Next.js or SSR",
+        "Knowledge of performance optimization techniques",
+        "Familiarity with A/B testing frameworks"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-004",
+    "company": "PhonePe",
+    "role": "Node.js Backend Developer",
+    "location": "Bangalore",
+    "experience_required": "2-5 years",
+    "salary_range": "12-18 LPA",
+    "skills_required": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API",
+      "JWT Authentication",
+      "Docker"
+    ],
+    "job_description": {
+      "summary": "PhonePe is hiring a Node.js Backend Developer to build secure and scalable payment APIs.",
+      "responsibilities": [
+        "Design and develop REST APIs using Node.js and Express.js",
+        "Manage MongoDB databases and optimize queries",
+        "Implement JWT based authentication and authorization",
+        "Containerize backend services using Docker",
+        "Ensure API security and performance",
+        "Write technical documentation"
+      ],
+      "requirements": [
+        "2-5 years of Node.js backend development experience",
+        "Strong Express.js and REST API design skills",
+        "MongoDB and Mongoose experience mandatory",
+        "JWT authentication implementation experience",
+        "Docker containerization experience"
+      ],
+      "good_to_have": [
+        "Experience with message queues like Kafka or RabbitMQ",
+        "Knowledge of Redis for caching",
+        "Familiarity with AWS services"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-005",
+    "company": "CRED",
+    "role": "Full Stack JavaScript Developer",
+    "location": "Bangalore",
+    "experience_required": "2-4 years",
+    "salary_range": "15-22 LPA",
+    "skills_required": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Git"
+    ],
+    "job_description": {
+      "summary": "CRED is hiring a Full Stack JavaScript Developer to build premium fintech web experiences.",
+      "responsibilities": [
+        "Build beautiful React.js frontends with Tailwind CSS",
+        "Develop Node.js backend APIs and services",
+        "Manage MongoDB databases",
+        "Ensure pixel perfect UI implementation",
+        "Collaborate with designers and product managers",
+        "Maintain high code quality standards"
+      ],
+      "requirements": [
+        "2-4 years of full stack JavaScript experience",
+        "Strong React.js and Node.js skills",
+        "Tailwind CSS experience preferred",
+        "MongoDB knowledge required",
+        "Git workflow experience mandatory"
+      ],
+      "good_to_have": [
+        "Experience with animations using Framer Motion",
+        "Knowledge of TypeScript",
+        "Familiarity with fintech domain"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-006",
+    "company": "Razorpay",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience_required": "3-5 years",
+    "salary_range": "18-28 LPA",
+    "skills_required": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "AWS",
+      "CI/CD",
+      "MongoDB"
+    ],
+    "job_description": {
+      "summary": "Razorpay is looking for a Full Stack Engineer to build payment infrastructure interfaces.",
+      "responsibilities": [
+        "Build and maintain React.js frontends with TypeScript",
+        "Develop Node.js microservices",
+        "Deploy on AWS and maintain CI/CD pipelines",
+        "Ensure high availability and performance",
+        "Work on payment dashboard and reporting features",
+        "Participate in system design discussions"
+      ],
+      "requirements": [
+        "3-5 years of full stack development experience",
+        "TypeScript is mandatory",
+        "AWS deployment experience required",
+        "CI/CD pipeline management experience",
+        "Strong problem solving skills"
+      ],
+      "good_to_have": [
+        "Experience with Kubernetes",
+        "Knowledge of distributed systems",
+        "Familiarity with payment domain"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-007",
+    "company": "Meesho",
+    "role": "React.js Frontend Developer",
+    "location": "Bangalore",
+    "experience_required": "1-3 years",
+    "salary_range": "8-14 LPA",
+    "skills_required": [
+      "React.js",
+      "JavaScript",
+      "Redux",
+      "HTML5",
+      "CSS3",
+      "REST API"
+    ],
+    "job_description": {
+      "summary": "Meesho needs a React.js Frontend Developer to build e-commerce seller and buyer interfaces.",
+      "responsibilities": [
+        "Develop responsive React.js components",
+        "Manage state using Redux",
+        "Integrate REST APIs into frontend",
+        "Ensure mobile responsiveness",
+        "Work with product and design teams",
+        "Fix UI bugs and improve performance"
+      ],
+      "requirements": [
+        "1-3 years of React.js experience",
+        "Strong JavaScript fundamentals",
+        "Redux state management experience",
+        "Good HTML5 and CSS3 knowledge",
+        "REST API integration experience"
+      ],
+      "good_to_have": [
+        "Experience with React Native",
+        "Knowledge of TypeScript",
+        "Familiarity with e-commerce domain"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-008",
+    "company": "Ola",
+    "role": "MERN Stack Developer",
+    "location": "Bangalore",
+    "experience_required": "2-5 years",
+    "salary_range": "12-20 LPA",
+    "skills_required": [
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Docker",
+      "REST API"
+    ],
+    "job_description": {
+      "summary": "Ola is hiring a MERN Stack Developer to build mobility platform features.",
+      "responsibilities": [
+        "Develop full stack features using MERN stack",
+        "Build real time tracking and mapping interfaces",
+        "Design and implement REST APIs",
+        "Containerize services using Docker",
+        "Optimize application performance",
+        "Work in fast paced agile environment"
+      ],
+      "requirements": [
+        "2-5 years of MERN stack experience",
+        "Strong React.js and Node.js skills",
+        "MongoDB and Express.js experience",
+        "Docker containerization experience",
+        "REST API design and integration skills"
+      ],
+      "good_to_have": [
+        "Experience with Socket.IO for real time features",
+        "Knowledge of AWS",
+        "Familiarity with mobility or maps domain"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-009",
+    "company": "Infosys",
+    "role": "Java Backend Developer",
+    "location": "Pune",
+    "experience_required": "3-6 years",
+    "salary_range": "8-15 LPA",
+    "skills_required": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "SQL",
+      "Docker"
+    ],
+    "job_description": {
+      "summary": "Infosys is hiring a Java Backend Developer for enterprise client projects.",
+      "responsibilities": [
+        "Build microservices using Spring Boot",
+        "Design and manage SQL databases",
+        "Deploy services using Docker",
+        "Write unit and integration tests",
+        "Participate in code reviews",
+        "Work with enterprise clients"
+      ],
+      "requirements": [
+        "3-6 years of Java development experience",
+        "Strong Spring Boot and microservices skills",
+        "SQL database design experience",
+        "Docker containerization experience",
+        "Good problem solving skills"
+      ],
+      "good_to_have": [
+        "Experience with Kubernetes",
+        "Knowledge of Apache Kafka",
+        "Familiarity with cloud platforms"
+      ]
+    }
+  },
+  {
+    "job_id": "JOB-010",
+    "company": "TCS",
+    "role": "Data Engineer",
+    "location": "Hyderabad",
+    "experience_required": "2-5 years",
+    "salary_range": "8-14 LPA",
+    "skills_required": [
+      "Python",
+      "Apache Spark",
+      "SQL",
+      "Hadoop",
+      "AWS Glue"
+    ],
+    "job_description": {
+      "summary": "TCS is hiring a Data Engineer to build and maintain data pipelines.",
+      "responsibilities": [
+        "Build and maintain data pipelines using Apache Spark",
+        "Process large datasets using Hadoop",
+        "Manage AWS Glue ETL jobs",
+        "Write complex SQL queries",
+        "Optimize data processing performance",
+        "Collaborate with data science teams"
+      ],
+      "requirements": [
+        "2-5 years of data engineering experience",
+        "Strong Python and SQL skills",
+        "Apache Spark experience mandatory",
+        "Hadoop ecosystem knowledge",
+        "AWS Glue experience preferred"
+      ],
+      "good_to_have": [
+        "Experience with Apache Kafka",
+        "Knowledge of Airflow for workflow management",
+        "Familiarity with data warehousing concepts"
+      ]
+    }
+  }
+]
